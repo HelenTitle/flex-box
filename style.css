@@ -53,13 +53,16 @@ font-weight: 400;
 margin-bottom: 38px;
 }
 
-hi__list li{
-    background: url('img/icons/icon.png') 0 1px no-repeat;
+.hi__list li{
+    background: url('img/icons/icon.png') left no-repeat;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
 font-size: 20px;
 font-weight: 400;
 padding-left: 36px;
 margin-bottom: 17px;
+}
+.hi__list li:last-child{
+    margin: 0;
 }
 .hi_image { }
 .footer { 
