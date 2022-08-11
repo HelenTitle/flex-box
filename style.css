@@ -107,6 +107,36 @@ padding-right: 30px;
     line-height: 24px
     }
 
+
+    .columns { }
+    .container { }
+    .columns__title {
+        text-align: center;
+        padding: 0px 0px 30px 0px;
+     }
+
+    .column__row { 
+        display:flex;
+    }
+    .columns__column { 
+        flex: 0 1 50%;
+    }
+    .columns__item { }
+    .item { }
+    .item_row { 
+        display: flex;
+    }
+    .item__img {
+        flex: 0 0 200px;
+     }
+
+    .item_body {
+        flex: 1 1 auto;
+        padding: 0px 0px 0px 15px; ;
+     }
+    .item__title { }
+    .item__text { }
+
 .footer_row { 
     display: flex;
     height: 65px;
