@@ -73,11 +73,12 @@ padding-right: 30px;
 
 
 .what { 
-    padding: 50px 0;
+    padding: 50px 0 20px 0;
 }
 .container { }
 .what__row {
     display: flex;
+    margin: 0px -8px;
  }
 .what__image {
     flex: 0 0 430px;
@@ -120,9 +121,12 @@ padding-right: 30px;
 
     .column__row { 
         display:flex;
+        flex-wrap: wrap;
     }
     .columns__column { 
+        padding: 0 8px;
         flex: 0 1 50%;
+        margin: 0px 0px 30px 0px; 
     }
     .columns__item { }
     .item { }
