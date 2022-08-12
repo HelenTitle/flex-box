@@ -75,7 +75,6 @@ padding-right: 30px;
 .what { 
     padding: 50px 0 20px 0;
 }
-.container { }
 .what__row {
     display: flex;
     margin: 0px -8px;
@@ -113,7 +112,6 @@ padding-right: 30px;
         background-color:#F5F5F5;
         padding: 50px 0;
     }
-    .container { }
     .columns__title {
         text-align: center;
         padding: 0px 0px 30px 0px;
@@ -158,13 +156,11 @@ padding-right: 30px;
      .vertical { 
         padding: 50px 0;
      }
-.container { }
 .vertical__title {
     text-align: center;
     margin: 0px 0px 30px 0px;
  }
 
-.title { }
 .vertical__body {
     max-width: 990px;
     margin: 0px auto;
