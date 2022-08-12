@@ -153,6 +153,21 @@ padding-right: 30px;
             line-height: 24px;  
      }
 
+
+
+     .vertical { }
+.container { }
+.vertical__title { }
+.title { }
+.vertical__body { }
+.vertical__row { }
+.vertical__column { }
+.vertical__item { }
+.vertical__subtitle { }
+.vertical__label { }
+.vertical__text { }
+.vertical__btn { }
+
 .footer_row { 
     display: flex;
     height: 65px;
