@@ -178,6 +178,7 @@ padding-right: 30px;
 .vertical__column {
     padding: 0px 22.5px;
     flex: 0 1 33,33%;
+    display: flex;
  }
 .vertical__item { 
     background-color: #445162;
@@ -185,6 +186,8 @@ padding-right: 30px;
     border-radius: 5px;
     border: 1px solid #445162;
     padding: 0px 0px 20px 0px;
+    display: flex;
+    flex-direction: column;
 }
 .vertical__subtitle {
     text-align: center;
@@ -204,6 +207,7 @@ padding-right: 30px;
     padding: 20px;
     font-size: 14px;
     line-height: 24px;
+    flex: 1 1 auto;
 }
 
 .vertical__text p{
