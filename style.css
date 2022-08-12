@@ -177,7 +177,12 @@ padding-right: 30px;
 .vertical__column {
     flex: 0 1 33,33%;
  }
-.vertical__item { }
+.vertical__item { 
+    background-color: #445162;
+    color: #FFF;
+    border-radius: 5px;
+
+}
 .vertical__subtitle { }
 .vertical__label { }
 .vertical__text { }
